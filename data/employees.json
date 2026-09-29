@@ -1,0 +1,42 @@
+[
+    {
+        "id": 4,
+        "name": "Carol Duran",
+        "email": "bowacuzuw@mailinator.com",
+        "salary": "+1 (959) 841-1371",
+        "phone": "33",
+        "type": "full_time"
+    },
+    {
+        "id": 10,
+        "name": "Lunea Wilkins",
+        "email": "nogunisega@mailinator.com",
+        "salary": "51",
+        "phone": "+1 (568) 134-5678",
+        "type": "part_time"
+    },
+    {
+        "id": 11,
+        "name": "Chelsea Blanchard",
+        "email": "fyzo@mailinator.com",
+        "salary": "36",
+        "phone": "+1 (832) 137-5593",
+        "type": "full_time"
+    },
+    {
+        "id": 12,
+        "name": "Igor Cantu",
+        "email": "bije@mailinator.com",
+        "salary": "26",
+        "phone": "+1 (463) 715-9691",
+        "type": "part_time"
+    },
+    {
+        "id": 13,
+        "name": "Jessamine Brown",
+        "email": "wije@mailinator.com",
+        "salary": "76",
+        "phone": "+1 (209) 632-5516",
+        "type": "full_time"
+    }
+]
